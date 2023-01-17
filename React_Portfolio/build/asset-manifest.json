@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e55f07ec.css",
+    "main.js": "/static/js/main.23a90990.js",
+    "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
+    "static/media/amazon.png": "/static/media/amazon.458ce0d6017b2bc74474.png",
+    "static/media/apple.jpg": "/static/media/apple.e16dff6fae2368339f2f.jpg",
+    "static/media/logo-j.png": "/static/media/logo-j.539be009a4c1806c7142.png",
+    "static/media/vii.jpg": "/static/media/vii.ab6daa7806d8b2411e48.jpg",
+    "static/media/keep.png": "/static/media/keep.95489181ddf7686b7051.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/jdii.png": "/static/media/jdii.ae074d953ecf59b68f8d.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.e55f07ec.css.map": "/static/css/main.e55f07ec.css.map",
+    "main.23a90990.js.map": "/static/js/main.23a90990.js.map",
+    "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55f07ec.css",
+    "static/js/main.23a90990.js"
+  ]
+}
